@@ -1,0 +1,1732 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [9 0 R 11 0 R 13 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Length 10015 >>
+stream
+0.08 0.17 0.28 rg
+42.00 705.89 511.28 88.00 re
+f
+0.93 0.45 0.12 rg
+42.00 789.89 511.28 4.00 re
+f
+BT
+/F2 7.5 Tf
+0.93 0.7 0.3 rg
+60.00 771.89 Td
+(OFICINATECH PRO | QUALIDADE DE SOFTWARE) Tj
+ET
+BT
+/F2 15 Tf
+1 1 1 rg
+60.00 751.89 Td
+(Plano de Fluxo de Trabalho de Desenvolvimento e Ciclo) Tj
+ET
+BT
+/F2 15 Tf
+1 1 1 rg
+60.00 734.89 Td
+(de Vida do Bug) Tj
+ET
+BT
+/F3 8.5 Tf
+0.8 0.86 0.92 rg
+60.00 719.89 Td
+(Metodologia \301gil com Shift-Left Testing aplicada ao M\363dulo de Ordem de Servi\347o \(O.S.\)) Tj
+ET
+0.95 0.97 0.99 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 629.89 511.28 60.00 re
+B
+0.2 0.45 0.75 rg
+42.00 629.89 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.2 0.45 0.75 rg
+54.00 675.89 Td
+(CONTEXTO DA APLICA\307\303O: OFICINATECH PRO) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 661.89 Td
+(Aplica\347\343o corporativa de gest\343o integrada para oficinas mec\342nicas automotivas. O M\363dulo de Ordem de Servi\347o) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 650.39 Td
+(\(O.S.\) coordena recep\347\343o, triagem de avarias veiculares, or\347amenta\347\343o discriminada de autope\347as e m\343o de) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 638.89 Td
+(obra, aprova\347\343o remota pelo propriet\341rio e controle de qualidade pr\351-entrega.) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 603.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 606.89 Td
+(1. Fluxo de Trabalho de Desenvolvimento \(SDLC \301gil & Shift-Left QA\)) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 597.89 m 553.28 597.89 l S
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 578.89 Td
+(O fluxo de desenvolvimento da OficinaTech Pro adota o modelo \341gil \(Scrum/Kanban\) fundamentado na filosofia de) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 566.39 Td
+(Shift-Left Testing. O objetivo primordial \351 antecipar a descoberta de defeitos para as fases iniciais de) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 553.89 Td
+(refinamento e especifica\347\343o, reduzindo exponencialmente o custo de corre\347\343o e assegurando alinhamento com a) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 541.39 Td
+(legisla\347\343o de consumo \(art. 40 do CDC\).) Tj
+ET
+0.14 0.24 0.38 rg
+42.00 511.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 519.89 Td
+(Fase do SDLC) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+138.00 519.89 Td
+(Participantes) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+223.00 519.89 Td
+(Atua\347\343o Estrat\351gica do QA) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+458.00 519.89 Td
+(Gate de Qualidade) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 468.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 497.89 Td
+(1. Refinamento) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 487.39 Td
+(\(Three Amigos\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 497.89 Td
+(PO, Dev e QA Lead) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 511.89 m 132.00 468.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 497.89 Td
+(An\341lise cr\355tica de regras de neg\363cio da oficina) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 487.39 Td
+(\(hod\364metro, garantia de pe\347as\); cria\347\343o de crit\351rios) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 476.89 Td
+(de aceite em BDD; preven\347\343o de ambiguidades.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 511.89 m 217.00 468.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 497.89 Td
+(Definition of Ready) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 487.39 Td
+(\(DoR\) aprovada) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 511.89 m 452.00 468.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 424.89 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 454.39 Td
+(2. Sprint Planning) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 454.39 Td
+(Time) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 443.89 Td
+(Multidisciplinar) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 468.39 m 132.00 424.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 454.39 Td
+(Mapeamento de massas de dados de teste \(ve\355culos,) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 443.89 Td
+(placas, clientes\); estimativa de esfor\347o de testes) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 433.39 Td
+(manuais e automa\347\343o.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 468.39 m 217.00 424.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 454.39 Td
+(Backlog da Sprint) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 443.89 Td
+(fechado e acordado) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 468.39 m 452.00 424.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 381.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 410.89 Td
+(3. Desenvolvimento) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 400.39 Td
+(& Testes Unit\341rios) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 410.89 Td
+(Engenheiros de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 400.39 Td
+(Software) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 424.89 m 132.00 381.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 410.89 Td
+(Apoio consultivo em cen\341rios lim\355trofes; valida\347\343o da) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 400.39 Td
+(cobertura m\355nima de 80% em testes unit\341rios e de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 389.89 Td
+(integra\347\343o.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 424.89 m 217.00 381.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 410.89 Td
+(Testes unit\341rios) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 400.39 Td
+(automatizados 100%) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 389.89 Td
+(verdes) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 424.89 m 452.00 381.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 337.89 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 367.39 Td
+(4. Code Review & CI) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 356.89 Td
+(Pipeline) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 367.39 Td
+(Pares Dev e CI/CD) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 381.39 m 132.00 337.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 367.39 Td
+(Verifica\347\343o est\341tica de c\363digo \(SonarQube\); valida\347\343o) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 356.89 Td
+(de vulnerabilidades de seguran\347a; bloqueio de PRs) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 346.39 Td
+(divergentes.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 381.39 m 217.00 337.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 367.39 Td
+(Quality Gate aprovado) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 356.89 Td
+(no GitHub Actions) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 381.39 m 452.00 337.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 294.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 323.89 Td
+(5. Valida\347\343o em QA) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 313.39 Td
+(\(Staging\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 323.89 Td
+(Analista de QA) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 337.89 m 132.00 294.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 323.89 Td
+(Execu\347\343o de testes funcionais, explorat\363rios baseados) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 313.39 Td
+(em risco, regress\343o de APIs e testes de ponta a ponta) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 302.89 Td
+(\(E2E\).) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 337.89 m 217.00 294.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 323.89 Td
+(Crit\351rios de Aceite) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 313.39 Td
+(atendidos; zero bugs) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 302.89 Td
+(cr\355ticos) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 337.89 m 452.00 294.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 261.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 280.39 Td
+(6. Homologa\347\343o) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 269.89 Td
+(\(UAT\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 280.39 Td
+(PO e Consultor) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 269.89 Td
+(Piloto) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 294.39 m 132.00 261.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 280.39 Td
+(Valida\347\343o de ader\352ncia ao fluxo real de oficina) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 269.89 Td
+(mec\342nica e conformidade operacional.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 294.39 m 217.00 261.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 280.39 Td
+(Definition of Done) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 269.89 Td
+(\(DoD\) assinada) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 294.39 m 452.00 261.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 217.89 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 247.39 Td
+(7. Deploy &) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 236.89 Td
+(Monitoramento) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+137.00 247.39 Td
+(DevOps, QA e SRE) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+132.00 261.39 m 132.00 217.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 247.39 Td
+(Execu\347\343o de Smoke Tests em produ\347\343o p\363s-deploy;) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 236.89 Td
+(monitoramento cont\355nuo de logs de exce\347\343o) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+222.00 226.39 Td
+(\(Sentry/Datadog\).) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+217.00 261.39 m 217.00 217.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 247.39 Td
+(Telemetria est\341vel e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 236.89 Td
+(sem alertas de erro) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+457.00 226.39 Td
+(500) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+452.00 261.39 m 452.00 217.89 l S
+0.12 0.36 0.64 rg
+42.00 189.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 192.89 Td
+(2. Crit\351rios de Qualidade: DoR e DoD) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 183.89 m 553.28 183.89 l S
+1 0.98 0.92 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 113.89 511.28 60.00 re
+B
+0.9 0.55 0.1 rg
+42.00 113.89 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.9 0.55 0.1 rg
+54.00 159.89 Td
+(Definition of Ready \(DoR\) - Crit\351rio de Entrada na Sprint) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 145.89 Td
+(Para ser iniciada no desenvolvimento, a hist\363ria de O.S. deve conter: narrativa de usu\341rio clara, crit\351rios) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 134.39 Td
+(de aceite em BDD, regras de valida\347\343o de placa e hod\364metro explicitadas, prot\363tipos de tela revisados e massa) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 122.89 Td
+(de dados mapeada pelo QA nos Three Amigos.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 1 de 3) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 10593 >>
+stream
+BT
+/F2 7.5 Tf
+0.35 0.4 0.48 rg
+42 817.89 Td
+(GARANTIA DE QUALIDADE | SDLC & DEFECT LIFECYCLE) Tj
+ET
+BT
+/F1 7.5 Tf
+0.5 0.55 0.6 rg
+362.17999999999995 817.89 Td
+(Plano de Fluxo de Trabalho & Ciclo de Vida do Bug) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 813.89 m 553.28 813.89 l S
+0.94 0.98 0.94 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 733.89 511.28 60.00 re
+B
+0.18 0.62 0.28 rg
+42.00 733.89 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.18 0.62 0.28 rg
+54.00 779.89 Td
+(Definition of Done \(DoD\) - Crit\351rio de Conclus\343o e Entrega) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 765.89 Td
+(Uma entrega s\363 \351 considerada conclu\355da quando: c\363digo passa por revis\343o de pares; cobertura de testes) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 754.39 Td
+(unit\341rios >= 80%; su\355te de regress\343o sem falhas; valida\347\343o manual e explorat\363ria conclu\355da em Staging;) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 742.89 Td
+(documenta\347\343o atualizada; nenhum bug de severidade Cr\355tica ou Alta em aberto.) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 707.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 710.89 Td
+(3. Ciclo de Vida do Bug \(Defect Life Cycle\)) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 701.89 m 553.28 701.89 l S
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 682.89 Td
+(O Ciclo de Vida do Bug formaliza todos os estados que uma n\343o conformidade percorre desde sua identifica\347\343o) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 670.39 Td
+(pelo time de testes at\351 seu fechamento definitivo. A padroniza\347\343o garante rastreabilidade e prioriza\347\343o) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 657.89 Td
+(precisa das corre\347\365es.) Tj
+ET
+0.96 0.98 1 rg
+0.75 0.85 0.95 RG
+0.75 w
+42.00 540.39 511.28 110.00 re
+B
+BT
+/F2 8.5 Tf
+0.12 0.28 0.52 rg
+54.00 634.39 Td
+(MAPA DE TRANSI\307\303O DE ESTADOS DO DEFEITO) Tj
+ET
+0.14 0.24 0.38 rg
+56.00 602.39 74.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+74.00 615.39 Td
+(1. NOVO) Tj
+ET
+0.4 0.5 0.6 RG
+1.5 w
+130.00 613.39 m 146.00 613.39 l S
+0.18 0.42 0.7 rg
+146.00 602.39 84.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+152.00 615.39 Td
+(2. EM TRIAGEM) Tj
+ET
+0.4 0.5 0.6 RG
+1.5 w
+230.00 613.39 m 246.00 613.39 l S
+0.2 0.5 0.45 rg
+246.00 602.39 74.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+254.00 615.39 Td
+(3. ATRIBU\315DO) Tj
+ET
+0.4 0.5 0.6 RG
+1.5 w
+320.00 613.39 m 336.00 613.39 l S
+0.85 0.5 0.1 rg
+336.00 602.39 88.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+342.00 615.39 Td
+(4. EM CORRE\307\303O) Tj
+ET
+0.55 0.3 0.7 rg
+56.00 562.39 88.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+66.00 575.39 Td
+(5. RESOLVIDO) Tj
+ET
+0.4 0.5 0.6 RG
+1.5 w
+144.00 573.39 m 160.00 573.39 l S
+0.85 0.65 0.15 rg
+160.00 562.39 84.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+166.00 575.39 Td
+(6. EM RETESTE) Tj
+ET
+0.4 0.5 0.6 RG
+1.5 w
+244.00 573.39 m 260.00 573.39 l S
+0.15 0.65 0.3 rg
+260.00 562.39 74.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+272.00 575.39 Td
+(7. FECHADO) Tj
+ET
+0.75 0.18 0.18 rg
+334.00 562.39 90.00 22.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+342.00 575.39 Td
+(8. REABERTO) Tj
+ET
+0.14 0.24 0.38 rg
+42.00 506.39 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 514.39 Td
+(Estado) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+158.00 514.39 Td
+(Descri\347\343o e Respons\341vel) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+418.00 514.39 Td
+(Pr\363ximos Passos Poss\355veis) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 473.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 492.39 Td
+(Novo \(New\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 492.39 Td
+(Bug registrado formalmente pelo QA ou usu\341rio com template) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 481.89 Td
+(completo.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 506.39 m 152.00 473.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 492.39 Td
+(Em Triagem) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 506.39 m 412.00 473.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 440.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 459.39 Td
+(Em Triagem \(Triaged\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 459.39 Td
+(QA Lead e PO avaliam severidade, autenticidade e prioridade) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 448.89 Td
+(no backlog.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 473.39 m 152.00 440.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 459.39 Td
+(Atribu\355do, Rejeitado ou) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 448.89 Td
+(Postergado) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 473.39 m 412.00 440.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 407.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 426.39 Td
+(Atribu\355do \(Assigned\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 426.39 Td
+(Ticket direcionado para o desenvolvedor da squad) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 415.89 Td
+(respons\341vel.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 440.39 m 152.00 407.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 426.39 Td
+(Em Corre\347\343o) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 440.39 m 412.00 407.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 374.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 393.39 Td
+(Em Corre\347\343o \(In) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 382.89 Td
+(Progress\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 393.39 Td
+(Desenvolvedor isola causa-raiz e cria corre\347\343o com teste) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 382.89 Td
+(unit\341rio.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 407.39 m 152.00 374.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 393.39 Td
+(Resolvido) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 407.39 m 412.00 374.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 341.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 360.39 Td
+(Resolvido \(Resolved\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 360.39 Td
+(Fix implantado no ambiente de QA/Staging pronto para) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 349.89 Td
+(valida\347\343o.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 374.39 m 152.00 341.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 360.39 Td
+(Em Reteste) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 374.39 m 412.00 341.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 308.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 327.39 Td
+(Em Reteste \(Retesting\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 327.39 Td
+(Analista de QA repete passos exatos e executa testes) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 316.89 Td
+(regressivos.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 341.39 m 152.00 308.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 327.39 Td
+(Fechado \(sucesso\) ou Reaberto) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 316.89 Td
+(\(falha\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 341.39 m 412.00 308.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 285.89 511.28 22.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 294.39 Td
+(Fechado \(Closed\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 294.39 Td
+(Defeito comprovadamente solucionado sem efeitos colaterais.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 308.39 m 152.00 285.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 294.39 Td
+(Arquivado no hist\363rico) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 308.39 m 412.00 285.89 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 252.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 271.89 Td
+(Reaberto \(Reopened\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 271.89 Td
+(Falha persiste ou gerou quebra funcional em outro) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+157.00 261.39 Td
+(componente.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+152.00 285.89 m 152.00 252.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 271.89 Td
+(Retorna para Em Corre\347\343o com) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+417.00 261.39 Td
+(logs) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+412.00 285.89 m 412.00 252.89 l S
+0.12 0.36 0.64 rg
+42.00 224.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 227.89 Td
+(4. Matriz de Severidade vs. Prioridade) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 218.89 m 553.28 218.89 l S
+0.14 0.24 0.38 rg
+42.00 186.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 194.89 Td
+(N\355vel de Severidade \(Impacto T\351cnico\)) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+218.00 194.89 Td
+(N\355vel de Prioridade \(Urg\352ncia de Neg\363cio\)) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+378.00 194.89 Td
+(A\347\343o Esperada no M\363dulo de O.S.) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 143.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 172.89 Td
+(Cr\355tica \(Blocker\)
+Sistema inoperante,) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 162.39 Td
+(perda de dados ou bloqueio total da) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 151.89 Td
+(emiss\343o de O.S.) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 172.89 Td
+(P1 \(Imediata\)
+Tratamento em regime) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 162.39 Td
+(de plant\343o/hotfix.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+212.00 186.89 m 212.00 143.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 172.89 Td
+(Corre\347\343o imediata sem esperar o) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 162.39 Td
+(fechamento da sprint.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 186.89 m 372.00 143.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 99.89 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 129.39 Td
+(Alta \(Major\)
+Funcionalidade vital com) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 118.89 Td
+(falha grave \(ex.: erro no rec\341lculo de) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 108.39 Td
+(pe\347as no or\347amento\).) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 129.39 Td
+(P2 \(Alta\)
+Corre\347\343o obrigat\363ria na) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 118.89 Td
+(sprint corrente.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+212.00 143.39 m 212.00 99.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 129.39 Td
+(Desenvolvimento priorizado antes da) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 118.89 Td
+(homologa\347\343o final.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 143.39 m 372.00 99.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 56.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 85.89 Td
+(M\351dia \(Moderate\)
+Falha secund\341ria com) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 75.39 Td
+(contorno vi\341vel \(ex.: filtro de busca) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 64.89 Td
+(de placas min\372sculas\).) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 85.89 Td
+(P3 \(M\351dia\)
+Agendado no fluxo da) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 75.39 Td
+(pr\363xima sprint.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+212.00 99.89 m 212.00 56.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 85.89 Td
+(Inclu\355do no refinamento de backlog) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 75.39 Td
+(ordin\341rio.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 99.89 m 372.00 56.39 l S
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 2 de 3) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 5127 >>
+stream
+BT
+/F2 7.5 Tf
+0.35 0.4 0.48 rg
+42 817.89 Td
+(GARANTIA DE QUALIDADE | SDLC & DEFECT LIFECYCLE) Tj
+ET
+BT
+/F1 7.5 Tf
+0.5 0.55 0.6 rg
+362.17999999999995 817.89 Td
+(Plano de Fluxo de Trabalho & Ciclo de Vida do Bug) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 813.89 m 553.28 813.89 l S
+0.14 0.24 0.38 rg
+42.00 771.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 779.89 Td
+(N\355vel de Severidade \(Impacto T\351cnico\)) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+218.00 779.89 Td
+(N\355vel de Prioridade \(Urg\352ncia de Neg\363cio\)) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+378.00 779.89 Td
+(A\347\343o Esperada no M\363dulo de O.S.) Tj
+ET
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 728.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 757.89 Td
+(Baixa \(Minor\)
+Inconsist\352ncia puramente) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 747.39 Td
+(visual ou cosm\351tica \(ex.:) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 736.89 Td
+(desalinhamento de \355cone\).) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 757.89 Td
+(P4 \(Baixa\)
+Resolvido por) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+217.00 747.39 Td
+(oportunidade t\351cnica.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+212.00 771.89 m 212.00 728.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 757.89 Td
+(Tratado em tarefas de melhoria cont\355nua) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 747.39 Td
+(de UI.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 771.89 m 372.00 728.39 l S
+0.12 0.36 0.64 rg
+42.00 700.39 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 703.39 Td
+(5. Padr\343o Corporativo de Bug Report) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 694.39 m 553.28 694.39 l S
+0.1 0.12 0.15 rg
+0.2 0.24 0.3 RG
+0.75 w
+42.00 316.39 511.28 368.00 re
+B
+0.15 0.18 0.23 rg
+42.00 664.39 511.28 20.00 re
+f
+BT
+/F2 8 Tf
+0.8 0.85 0.9 rg
+52.00 670.39 Td
+(TEMPLATE DE REPORTE DE DEFEITO PREENCHIDO \(OFICINATECH PRO\)) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 652.39 Td
+(ID: BUG-OS-1042) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 641.39 Td
+(T\315TULO: Valor total da O.S. n\343o recalcula ap\363s remo\347\343o de pe\347a no or\347amento) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 630.39 Td
+(M\323DULO: Gest\343o de Ordens de Servi\347o / Or\347amento e Pe\347as) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 619.39 Td
+(AMBIENTE: Staging / QA \(Build v2.4.1-rc3\) | Navegador: Chrome 128.0) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 608.39 Td
+(SEVERIDADE: Alta \(Major\) | PRIORIDADE: P2 \(Alta\)) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 597.39 Td
+(AUTOR: Analista de QA | ATRIBU\315DO A: Squad Core / O.S.) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 586.39 Td
+() Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 575.39 Td
+(1. PR\311-CONDI\307\325ES:) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 564.39 Td
+(- Usu\341rio autenticado como Consultor T\351cnico;) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 553.39 Td
+(- O.S. #OS-2026-00412 em status 'Em Diagn\363stico / Or\347amento em Elabora\347\343o';) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 542.39 Td
+(- Or\347amento com 2 pe\347as \(1x Filtro R$ 60,00 e 4x \323leo R$ 200,00 - Total: R$ 260,00\).) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 531.39 Td
+() Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 520.39 Td
+(2. PASSOS PARA REPRODU\307\303O:) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 509.39 Td
+(1. Acessar 'Ordens de Servi\347o' > abrir #OS-2026-00412;) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 498.39 Td
+(2. Navegar para a aba 'Pe\347as & Materiais';) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 487.39 Td
+(3. Na linha 'Filtro de \323leo \(R$ 60,00\)', clicar em 'Excluir Item';) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 476.39 Td
+(4. Confirmar exclus\343o no modal de aviso;) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 465.39 Td
+(5. Observar o card 'Resumo Financeiro da O.S.'.) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 454.39 Td
+() Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 443.39 Td
+(3. RESULTADO OBTIDO:) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 432.39 Td
+(A linha \351 removida da visualiza\347\343o, mas o Subtotal de Pe\347as e o Total Geral) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 421.39 Td
+(permanecem congelados em R$ 260,00. Ao salvar, grava valor incorreto no banco.) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 410.39 Td
+() Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 399.39 Td
+(4. RESULTADO ESPERADO:) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 388.39 Td
+(O Subtotal de Pe\347as deve atualizar imediatamente para R$ 200,00 refletindo o) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 377.39 Td
+(desconto do item exclu\355do.) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 366.39 Td
+() Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 355.39 Td
+(5. EVID\312NCIAS & LOGS:) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 344.39 Td
+(Console Error: Uncaught TypeError: updateFinancialSummary is not a function at deleteRow.js:42) Tj
+ET
+BT
+/F4 7.5 Tf
+0.86 0.9 0.94 rg
+54.00 333.39 Td
+(Payload POST: {"os_id": 412, "subtotal_pecas": 260.00, "itens": 1}) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 3 de 3) Tj
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000135 00000 n 
+0000000232 00000 n 
+0000000334 00000 n 
+0000000439 00000 n 
+0000000534 00000 n 
+0000000634 00000 n 
+0000010702 00000 n 
+0000010874 00000 n 
+0000021521 00000 n 
+0000021695 00000 n 
+0000026875 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+27049
+%%EOF

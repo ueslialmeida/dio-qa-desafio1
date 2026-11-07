@@ -1,0 +1,896 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [9 0 R 11 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Length 7373 >>
+stream
+0.08 0.17 0.28 rg
+42.00 705.89 511.28 88.00 re
+f
+0.93 0.45 0.12 rg
+42.00 789.89 511.28 4.00 re
+f
+BT
+/F2 7.5 Tf
+0.93 0.7 0.3 rg
+60.00 771.89 Td
+(OFICINATECH PRO | QUALIDADE DE SOFTWARE) Tj
+ET
+BT
+/F2 15 Tf
+1 1 1 rg
+60.00 751.89 Td
+(Especifica\347\343o de Hist\363rias de Usu\341rio \(User Stories\)) Tj
+ET
+BT
+/F3 8.5 Tf
+0.8 0.86 0.92 rg
+60.00 719.89 Td
+(Detalhamento Funcional, Regras de Neg\363cio e Crit\351rios de Aceite para Oficina Mec\342nica) Tj
+ET
+0.95 0.97 0.99 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 629.89 511.28 60.00 re
+B
+0.2 0.45 0.75 rg
+42.00 629.89 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.2 0.45 0.75 rg
+54.00 675.89 Td
+(APLICA\307\303O: OFICINATECH PRO - M\323DULO DE ORDENS DE SERVI\307O) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 661.89 Td
+(As hist\363rias de usu\341rio especificadas cobrem as duas etapas mais cr\355ticas da jornada do cliente e do) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 650.39 Td
+(mec\342nico: \(1\) O check-in com triagem e valida\347\343o de quilometragem; e \(2\) A autoriza\347\343o or\347ament\341ria digital) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 638.89 Td
+(com respaldo do C\363digo de Defesa do Consumidor \(art. 40\).) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 603.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 606.89 Td
+(User Story 1: Abertura e Emiss\343o de Nova O.S. com Check-in T\351cnico) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 597.89 m 553.28 597.89 l S
+0.14 0.24 0.38 rg
+42.00 565.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 573.89 Td
+(Identificador) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+118.00 573.89 Td
+(T\355tulo da Hist\363ria) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+303.00 573.89 Td
+(\311pico Relacionado) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+429.00 573.89 Td
+(Prioridade) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+494.00 573.89 Td
+(Estimativa) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 532.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 551.89 Td
+(US-OS-001) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+117.00 551.89 Td
+(Abertura de Nova O.S. com Check-in T\351cnico) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+112.00 565.89 m 112.00 532.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+302.00 551.89 Td
+(Entrada e Triagem Veicular) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+297.00 565.89 m 297.00 532.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+428.00 551.89 Td
+(Cr\355tica) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+428.00 541.39 Td
+(\(Alta\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+423.00 565.89 m 423.00 532.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+493.00 551.89 Td
+(8 Story) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+493.00 541.39 Td
+(Points) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+488.00 565.89 m 488.00 532.89 l S
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 509.89 Td
+(Narrativa da Hist\363ria \(Formato Padr\343o \301gil\)) Tj
+ET
+0.95 0.97 0.99 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 430.89 511.28 72.00 re
+B
+0.2 0.45 0.75 rg
+42.00 430.89 4.00 72.00 re
+f
+BT
+/F2 9.5 Tf
+0.2 0.45 0.75 rg
+54.00 488.89 Td
+(COMO... QUERO... PARA QUE...) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 474.89 Td
+(COMO Consultor T\351cnico / Atendente da oficina mec\342nica,
+EU QUERO registrar a abertura de uma nova Ordem de) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 463.39 Td
+(Servi\347o informando cliente, placa, quilometragem atual e o relato de queixas do propriet\341rio,
+PARA QUE o) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 451.89 Td
+(ve\355culo ingresse na fila de diagn\363stico t\351cnico com identifica\347\343o \372nica, hist\363rico confi\341vel e direcionamento) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 440.39 Td
+(operacional preciso.) Tj
+ET
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 409.89 Td
+(Regras de Neg\363cio Associadas \(RN\)) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 393.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 393.89 Td
+(RN01 - Identificador Sequencial \332nico: O sistema gera c\363digo inviol\341vel no formato OS-AAAA-XXXXX \(Ex:) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 381.39 Td
+(OS-2026-00108\).) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 368.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 368.89 Td
+(RN02 - Valida\347\343o de Placas: Aceite obrigat\363rio para Mercosul \(ABC1D23\) e formato tradicional \(ABC-1234\).) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 356.39 Td
+(Bloqueio de caracteres especiais.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 343.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 343.89 Td
+(RN03 - Valida\347\343o Antifraude de Hod\364metro: O valor num\351rico deve ser superior a 0 e n\343o pode ser inferior \340) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 331.39 Td
+(\372ltima O.S. arquivada para o ve\355culo. Qualquer exce\347\343o requer justificativa de troca de painel autorizada) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 318.89 Td
+(por supervisor.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 306.39 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 306.39 Td
+(RN04 - Campos Mandat\363rios: Cliente \(Nome/CPF/WhatsApp\), Ve\355culo \(Placa/Modelo/KM\), Combust\355vel \(marcador\)) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 293.89 Td
+(e Relato de Sintomas com no m\355nimo 15 caracteres.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 281.39 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 281.39 Td
+(RN05 - Status Inicial: Toda nova O.S. \351 criada obrigatoriamente no estado 'Aguardando Diagn\363stico'.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 268.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 268.89 Td
+(RN06 - Alerta de Garantia Vigente: Ve\355culos com manuten\347\343o nos \372ltimos 90 dias disparam banner informativo) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 256.39 Td
+(com pe\347as/servi\347os sob garantia legal.) Tj
+ET
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 241.89 Td
+(Crit\351rios de Aceite \(Acceptance Criteria\)) Tj
+ET
+BT
+/F2 8.5 Tf
+0.1 0.35 0.65 rg
+42.00 226.39 Td
+(Cen\341rio 1: Abertura bem-sucedida com cliente existente \(Caminho Feliz\)) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 209.89 Td
+(Dado que o atendente informa o CPF '234.567.890-11' e o sistema recupera o cliente Marcos Silva;
+Quando) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 197.39 Td
+(informa a placa 'BRA2E19', quilometragem '44.800 km' \(maior que a anterior de 38.200 km\) e a queixa 'Ru\355do na) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 184.89 Td
+(suspens\343o dianteira';
+E clica em 'Gerar Ordem de Servi\347o';
+Ent\343o o sistema grava a O.S. no status 'Aguardando) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 172.39 Td
+(Diagn\363stico', exibe o c\363digo OS-2026-00108 e disponibiliza o comprovante digital via WhatsApp.) Tj
+ET
+BT
+/F2 8.5 Tf
+0.75 0.2 0.2 rg
+42.00 156.39 Td
+(Cen\341rio 2: Bloqueio de quilometragem regressiva \(Fluxo de Exce\347\343o\)) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 139.89 Td
+(Dado que a placa 'BRA2E19' possui registro pr\351vio de 45.000 km no banco de dados;
+Quando o atendente tenta) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 127.39 Td
+(gravar uma nova O.S. informando '41.200 km';
+Ent\343o o formul\341rio n\343o \351 enviado e exibe mensagem de alerta em) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 114.89 Td
+(vermelho: 'Inconsist\352ncia de Hod\364metro: O valor informado \351 inferior ao \372ltimo registro da oficina \(45.000) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 102.39 Td
+(km\)'. Nenhum registro \351 gravado.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 1 de 2) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 7855 >>
+stream
+BT
+/F2 7.5 Tf
+0.35 0.4 0.48 rg
+42 817.89 Td
+(ENGENHARIA DE REQUISITOS | BACKLOG DE HIST\323RIAS DE USU\301RIO) Tj
+ET
+BT
+/F1 7.5 Tf
+0.5 0.55 0.6 rg
+393.38 817.89 Td
+(User Stories - M\363dulo de Ordem de Servi\347o) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 813.89 m 553.28 813.89 l S
+1 0.98 0.92 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 733.89 511.28 60.00 re
+B
+0.9 0.55 0.1 rg
+42.00 733.89 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.9 0.55 0.1 rg
+54.00 779.89 Td
+(CRIT\311RIOS DE PRONTID\303O \(DoR\) E CONCLUS\303O \(DoD\) - US-OS-001) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 765.89 Td
+(DoR: Regras de valida\347\343o de placa e hod\364metro aprovadas pelo QA; prot\363tipo de check-in revisado; campos de) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 754.39 Td
+(API especificados.
+DoD: Testes de unidade e integra\347\343o cobrindo valida\347\343o de KM; integra\347\343o com WhatsApp) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 742.89 Td
+(mockada e aprovada em Staging; sem bugs abertos.) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 707.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 710.89 Td
+(User Story 2: Elabora\347\343o e Aprova\347\343o Digital de Or\347amento) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 701.89 m 553.28 701.89 l S
+0.14 0.24 0.38 rg
+42.00 669.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 677.89 Td
+(Identificador) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+118.00 677.89 Td
+(T\355tulo da Hist\363ria) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+303.00 677.89 Td
+(\311pico Relacionado) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+429.00 677.89 Td
+(Prioridade) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+494.00 677.89 Td
+(Estimativa) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 636.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 655.89 Td
+(US-OS-002) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+117.00 655.89 Td
+(Aprova\347\343o Digital de Or\347amento pelo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+117.00 645.39 Td
+(Cliente) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+112.00 669.89 m 112.00 636.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+302.00 655.89 Td
+(Or\347amentos e Aprova\347\365es) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+297.00 669.89 m 297.00 636.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+428.00 655.89 Td
+(Cr\355tica) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+428.00 645.39 Td
+(\(Alta\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+423.00 669.89 m 423.00 636.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+493.00 655.89 Td
+(13 Story) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+493.00 645.39 Td
+(Points) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+488.00 669.89 m 488.00 636.89 l S
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 613.89 Td
+(Narrativa da Hist\363ria \(Formato Padr\343o \301gil\)) Tj
+ET
+0.95 0.97 0.99 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 534.89 511.28 72.00 re
+B
+0.2 0.45 0.75 rg
+42.00 534.89 4.00 72.00 re
+f
+BT
+/F2 9.5 Tf
+0.2 0.45 0.75 rg
+54.00 592.89 Td
+(COMO... QUERO... PARA QUE...) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 578.89 Td
+(COMO Cliente propriet\341rio de ve\355culo sob manuten\347\343o na oficina,
+EU QUERO receber um or\347amento discriminado) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 567.39 Td
+(\(pe\347as, m\343o de obra e prazos\) via link seguro no WhatsApp,
+PARA QUE eu possa analisar os valores, aprovar) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 555.89 Td
+(integralmente ou desmarcar itens opcionais com transpar\352ncia, autorizando a execu\347\343o sem precisar ir at\351 a) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 544.39 Td
+(oficina.) Tj
+ET
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 513.89 Td
+(Regras de Neg\363cio Associadas \(RN\)) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 497.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 497.89 Td
+(RN01 - Discrimina\347\343o de Itens: Separa\347\343o compuls\363ria entre Pe\347as/Materiais \(c\363digo, marca, garantia,) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 485.39 Td
+(valor\) e Servi\347os \(descri\347\343o, horas t\351cnicas, valor/hora\).) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 472.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 472.89 Td
+(RN02 - Validade Legal do Or\347amento: Prazo padr\343o configurado em 10 dias corridos conforme artigo 40 do) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 460.39 Td
+(CDC. Ap\363s esse per\355odo o link expira.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 447.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 447.89 Td
+(RN03 - Link Tokenizado Criptografado: Acesso dispensando senha complexa atrav\351s de token ef\352mero e seguro) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 435.39 Td
+(com restri\347\343o de visualiza\347\343o.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 422.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 422.89 Td
+(RN04 - Modos de Decis\343o: Aprova\347\343o total; Aprova\347\343o parcial \(apenas de itens opcionais/conforto, com aviso) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 410.39 Td
+(em itens de seguran\347a cr\355tica\); Recusa justificada.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 397.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 397.89 Td
+(RN05 - Registro de Auditoria: Grava\347\343o incontest\341vel de timestamp, endere\347o IP, geolocaliza\347\343o e) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 385.39 Td
+(identificador do dispositivo no momento do aceite.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 372.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 372.89 Td
+(RN06 - Transi\347\343o Autom\341tica de Status: Aprovado: O status evolui para 'Or\347amento Aprovado - Em Execu\347\343o' e) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 360.39 Td
+(reserva pe\347as no estoque. Recusado: Status 'Or\347amento Recusado'.) Tj
+ET
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 345.89 Td
+(Crit\351rios de Aceite \(Acceptance Criteria\)) Tj
+ET
+BT
+/F2 8.5 Tf
+0.1 0.35 0.65 rg
+42.00 330.39 Td
+(Cen\341rio 1: Aprova\347\343o integral via link do WhatsApp \(Caminho Feliz\)) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 313.89 Td
+(Dado que a O.S. #OS-2026-00045 possui or\347amento or\347ado em R$ 1.320,00 no status 'Or\347amento Pendente';
+Quando) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 301.39 Td
+(o cliente clica no link do WhatsApp, escolhe 'Aprovar Or\347amento Completo' e informa seu CPF;
+Ent\343o o sistema) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 288.89 Td
+(registra a auditoria com IP e timestamp, atualiza a O.S. para 'Or\347amento Aprovado - Em Execu\347\343o', reserva as) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 276.39 Td
+(pe\347as no estoque e emite alerta sonoro no Kanban dos mec\342nicos.) Tj
+ET
+BT
+/F2 8.5 Tf
+0.1 0.55 0.3 rg
+42.00 260.39 Td
+(Cen\341rio 2: Aprova\347\343o parcial com desmarca\347\343o de item opcional \(Fluxo Alternativo\)) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 243.89 Td
+(Dado que o or\347amento lista itens de seguran\347a \(Freios: R$ 900,00\) e opcionais \(Palhetas: R$ 120,00\);
+Quando o) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 231.39 Td
+(cliente desmarca o item opcional;
+Ent\343o o sistema recalcula o valor em tela para R$ 1.200,00 em tempo real,) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 218.89 Td
+(atualiza para 'Or\347amento Parcial Aprovado' e emite alerta interno para o consultor.) Tj
+ET
+1 0.98 0.92 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 151.39 511.28 60.00 re
+B
+0.9 0.55 0.1 rg
+42.00 151.39 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.9 0.55 0.1 rg
+54.00 197.39 Td
+(CRIT\311RIOS DE PRONTID\303O \(DoR\) E CONCLUS\303O \(DoD\) - US-OS-002) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 183.39 Td
+(DoR: Conformidade jur\355dica CDC validada; layout responsivo aprovado; mecanismo de expira\347\343o de token) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 171.89 Td
+(definido.
+DoD: Layout mobile 100% auditado; concorr\352ncia de estoque e reserva de pe\347as testada com sucesso;) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 160.39 Td
+(logs de auditoria gravados e validados pelo QA.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 2 de 2) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000000432 00000 n 
+0000000527 00000 n 
+0000000627 00000 n 
+0000008052 00000 n 
+0000008224 00000 n 
+0000016132 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16306
+%%EOF

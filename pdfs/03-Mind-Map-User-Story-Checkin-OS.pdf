@@ -1,0 +1,794 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [9 0 R 11 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Length 9494 >>
+stream
+0.08 0.17 0.28 rg
+42.00 705.89 511.28 88.00 re
+f
+0.93 0.45 0.12 rg
+42.00 789.89 511.28 4.00 re
+f
+BT
+/F2 7.5 Tf
+0.93 0.7 0.3 rg
+60.00 771.89 Td
+(OFICINATECH PRO | QUALIDADE DE SOFTWARE) Tj
+ET
+BT
+/F2 15 Tf
+1 1 1 rg
+60.00 751.89 Td
+(Mapa Mental de Cobertura de Testes \(Mind-Map\)) Tj
+ET
+BT
+/F3 8.5 Tf
+0.8 0.86 0.92 rg
+60.00 719.89 Td
+(Mapeamento Funcional, Riscos e Regras de Neg\363cio da User Story US-OS-001 \(Abertura de O.S.\)) Tj
+ET
+0.95 0.97 0.99 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 629.89 511.28 60.00 re
+B
+0.2 0.45 0.75 rg
+42.00 629.89 4.00 60.00 re
+f
+BT
+/F2 9.5 Tf
+0.2 0.45 0.75 rg
+54.00 675.89 Td
+(APLICA\307\303O DO MAPA MENTAL NO PROCESSO DE QA) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 661.89 Td
+(O mapa mental \351 uma ferramenta de explora\347\343o visual concebida para dissecar todos os fluxos de uma hist\363ria) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 650.39 Td
+(antes do c\363digo ser implementado. Ele organiza dados de entrada, caminhos felizes, fluxos de exce\347\343o, regras) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 638.89 Td
+(de neg\363cio e integra\347\365es externas em um panorama visual 360 graus.) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 603.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 606.89 Td
+(1. Representa\347\343o Gr\341fica Estruturada do Mapa Mental) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 597.89 m 553.28 597.89 l S
+0.97 0.98 0.99 rg
+0.8 0.85 0.9 RG
+0.75 w
+42.00 372.89 511.28 215.00 re
+B
+0.1 0.22 0.38 rg
+237.64 477.89 120.00 36.00 re
+f
+BT
+/F2 8 Tf
+1 1 1 rg
+253.64 499.89 Td
+(US-OS-001: ABERTURA) Tj
+ET
+BT
+/F2 8 Tf
+0.95 0.65 0.25 rg
+249.64 487.89 Td
+(E CHECK-IN DE O.S.) Tj
+ET
+0.18 0.45 0.75 RG
+1.5 w
+237.64 495.89 m 150.00 552.89 l S
+0.18 0.45 0.75 rg
+60.00 542.89 100.00 24.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+68.00 550.89 Td
+(1. DADOS CLIENTE) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+60.00 530.89 Td
+(- Busca automatica por CPF/CNPJ) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+60.00 520.89 Td
+(- Cadastro rapido novo cliente) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+60.00 510.89 Td
+(- Validacao telefone celular e opt-in) Tj
+ET
+0.85 0.45 0.12 RG
+1.5 w
+357.64 495.89 m 435.28 552.89 l S
+0.85 0.45 0.12 rg
+435.28 542.89 100.00 24.00 re
+f
+BT
+/F2 7.5 Tf
+1 1 1 rg
+443.28 550.89 Td
+(2. DADOS VE\315CULO) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+425.28 530.89 Td
+(- Placa Mercosul vs. Antiga) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+425.28 520.89 Td
+(- Hodometro: KM >= ultima OS) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+425.28 510.89 Td
+(- Nivel combustivel e avarias) Tj
+ET
+0.2 0.58 0.35 RG
+1.5 w
+237.64 495.89 m 150.00 424.89 l S
+0.2 0.58 0.35 rg
+60.00 412.89 100.00 24.00 re
+f
+BT
+/F2 7 Tf
+1 1 1 rg
+68.00 420.89 Td
+(3. QUEIXAS & SINTOMAS) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+60.00 400.89 Td
+(- Relato livre \(min 15 chars\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+60.00 390.89 Td
+(- Categorizacao mecanica/eletrica) Tj
+ET
+0.75 0.2 0.2 RG
+1.5 w
+357.64 495.89 m 435.28 424.89 l S
+0.75 0.2 0.2 rg
+435.28 412.89 100.00 24.00 re
+f
+BT
+/F2 7 Tf
+1 1 1 rg
+443.28 420.89 Td
+(4. REGRAS CR\315TICAS) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+425.28 400.89 Td
+(- Bloqueio KM inferior \(fraude\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.25 0.3 0.35 rg
+425.28 390.89 Td
+(- Alerta garantia pecas \(<90d\)) Tj
+ET
+0.5 0.3 0.65 RG
+1.5 w
+297.64 477.89 m 297.64 412.89 l S
+0.5 0.3 0.65 rg
+237.64 392.89 120.00 20.00 re
+f
+BT
+/F2 7 Tf
+1 1 1 rg
+247.64 398.89 Td
+(5. SA\315DAS / P\323S-CONDI\307\325ES) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 343.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 346.89 Td
+(2. Detalhamento dos Eixos de Teste Derivados) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 337.89 m 553.28 337.89 l S
+0.14 0.24 0.38 rg
+42.00 305.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 313.89 Td
+(Eixo Tem\341tico) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+143.00 313.89 Td
+(Foco de Teste do QA) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+263.00 313.89 Td
+(T\351cnica Aplicada) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+378.00 313.89 Td
+(Cen\341rios Chave Mapeados) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 262.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 291.89 Td
+(1. Dados do Cliente) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 291.89 Td
+(Valida\347\343o cadastral, busca) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 281.39 Td
+(por CPF e higieniza\347\343o de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 270.89 Td
+(telefone celular.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+137.00 305.89 m 137.00 262.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 291.89 Td
+(An\341lise de Valor Limite e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 281.39 Td
+(Parti\347\343o de Equival\352ncia) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+257.00 305.89 m 257.00 262.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 291.89 Td
+(CPF com d\355gitos verificadores corretos;) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 281.39 Td
+(bloqueio de formato com letras ou tamanho) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 270.89 Td
+(incompleto; m\341scara de telefone m\363vel.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 305.89 m 372.00 262.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 218.89 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 248.39 Td
+(2. Identifica\347\343o) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 237.89 Td
+(Veicular) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 248.39 Td
+(Valida\347\343o de placa e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 237.89 Td
+(hod\364metro.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+137.00 262.39 m 137.00 218.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 248.39 Td
+(Testes de Regra de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 237.89 Td
+(Neg\363cio e Classes) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 227.39 Td
+(V\341lidas/Inv\341lidas) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+257.00 262.39 m 257.00 218.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 248.39 Td
+(Placa Mercosul padr\343o 'BRA2E19' vs.) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 237.89 Td
+(Antiga 'ABC-1234'; bloqueio de caracteres) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 227.39 Td
+(divergentes; convers\343o para mai\372sculas.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 262.39 m 372.00 218.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 164.89 511.28 54.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 204.89 Td
+(3. Queixas e) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 194.39 Td
+(Sintomas) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 204.89 Td
+(Usabilidade, campos) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 194.39 Td
+(mandat\363rios e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 183.89 Td
+(preenchimento de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 173.39 Td
+(checklist.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+137.00 218.89 m 137.00 164.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 204.89 Td
+(Testes de Interface \(UI\)) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 194.39 Td
+(e Valida\347\343o de Formul\341rio) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+257.00 218.89 m 257.00 164.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 204.89 Td
+(Bloqueio de avan\347o com campo vazio;) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 194.39 Td
+(valida\347\343o do limite m\355nimo de caracteres;) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 183.89 Td
+(sele\347\343o de m\372ltiplos sintomas mec\342nicos.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 218.89 m 372.00 164.89 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 110.89 511.28 54.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 150.89 Td
+(4. Regras Cr\355ticas) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 150.89 Td
+(Bloqueio de hod\364metro) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 140.39 Td
+(regressivo e alerta legal) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 129.89 Td
+(de garantia CDC.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+137.00 164.89 m 137.00 110.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 150.89 Td
+(Testes Negativos e de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 140.39 Td
+(Integridade Cadastral) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+257.00 164.89 m 257.00 110.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 150.89 Td
+(Tentativa de cadastro com KM < \372ltimo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 140.39 Td
+(hist\363rico da oficina; verifica\347\343o de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 129.89 Td
+(pop-up de garantia para servi\347os < 90) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 119.39 Td
+(dias.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 164.89 m 372.00 110.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 56.89 511.28 54.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 96.89 Td
+(5. Sa\355das e) Tj
+ET
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 86.39 Td
+(Integra\347\365es) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 96.89 Td
+(Gera\347\343o de c\363digo \372nico,) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 86.39 Td
+(transi\347\343o de status e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+142.00 75.89 Td
+(mensageria.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+137.00 110.89 m 137.00 56.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 96.89 Td
+(Testes de Integra\347\343o e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+262.00 86.39 Td
+(Ponta a Ponta \(E2E\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+257.00 110.89 m 257.00 56.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 96.89 Td
+(Gera\347\343o de n\372mero \372nico sequencial;) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 86.39 Td
+(grava\347\343o no status 'Aguardando) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 75.89 Td
+(Diagn\363stico'; envio de evento para Kanban) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+377.00 65.39 Td
+(e WhatsApp.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+372.00 110.89 m 372.00 56.89 l S
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 1 de 2) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 1731 >>
+stream
+BT
+/F2 7.5 Tf
+0.35 0.4 0.48 rg
+42 817.89 Td
+(ENGENHARIA DE TESTES | MAPEAMENTO MENTAL E EXPLORA\307\303O VISUAL) Tj
+ET
+BT
+/F1 7.5 Tf
+0.5 0.55 0.6 rg
+420.67999999999995 817.89 Td
+(Mind-Map da User Story \(US-OS-001\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 813.89 m 553.28 813.89 l S
+0.12 0.36 0.64 rg
+42.00 777.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 780.89 Td
+(3. \301rvore de Ideias de Teste \(Test Idea Tree\)) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 771.89 m 553.28 771.89 l S
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 752.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 752.89 Td
+(Caminhos Felizes: Abertura para cliente cadastrado com placa Mercosul e KM consistente; cadastro r\341pido de) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 740.39 Td
+(novo cliente em tela \372nica; despacho de WhatsApp com sucesso.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 727.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 727.89 Td
+(Fluxos de Exce\347\343o: KM inferior ao hist\363rico com alerta e bloqueio; placa mal formatada; campos) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 715.39 Td
+(obrigat\363rios n\343o preenchidos com foco no primeiro campo com erro.) Tj
+ET
+BT
+/F2 9 Tf
+0.93 0.45 0.12 rg
+44.00 702.89 Td
+(>) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 702.89 Td
+(Seguran\347a e Integridade: Preven\347\343o de duplicidade de O.S. aberta para o mesmo ve\355culo na mesma data;) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+56.00 690.39 Td
+(sanitiza\347\343o contra scripts maliciosos nos campos de texto.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 2 de 2) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000000432 00000 n 
+0000000527 00000 n 
+0000000627 00000 n 
+0000010173 00000 n 
+0000010345 00000 n 
+0000012129 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+12303
+%%EOF

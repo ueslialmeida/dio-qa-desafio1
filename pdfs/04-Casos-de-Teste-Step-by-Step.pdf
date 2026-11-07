@@ -1,0 +1,1733 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [9 0 R 11 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Length 12561 >>
+stream
+0.08 0.17 0.28 rg
+42.00 705.89 511.28 88.00 re
+f
+0.93 0.45 0.12 rg
+42.00 789.89 511.28 4.00 re
+f
+BT
+/F2 7.5 Tf
+0.93 0.7 0.3 rg
+60.00 771.89 Td
+(OFICINATECH PRO | QUALIDADE DE SOFTWARE) Tj
+ET
+BT
+/F2 15 Tf
+1 1 1 rg
+60.00 751.89 Td
+(Casos de Teste Passo a Passo \(Step-by-Step\)) Tj
+ET
+BT
+/F3 8.5 Tf
+0.8 0.86 0.92 rg
+60.00 719.89 Td
+(Procedimentos Detalhados de Execu\347\343o Manual e Roteiros para Automa\347\343o no Padr\343o IEEE 829) Tj
+ET
+0.95 0.97 0.99 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 641.89 511.28 48.00 re
+B
+0.2 0.45 0.75 rg
+42.00 641.89 4.00 48.00 re
+f
+BT
+/F2 9.5 Tf
+0.2 0.45 0.75 rg
+54.00 675.89 Td
+(VIS\303O GERAL DA T\311CNICA STEP-BY-STEP) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 661.89 Td
+(A t\351cnica de casos de teste passo a passo estabelece instru\347\365es sequenciais, determin\355sticas e reproduz\355veis,) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 650.39 Td
+(documentando o ambiente, pr\351-condi\347\365es, massas de teste e o resultado esperado em cada itera\347\343o.) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 615.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 618.89 Td
+(Caso de Teste 1: Abertura de O.S. com Sucesso \(Caminho Feliz\)) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 609.89 m 553.28 609.89 l S
+0.14 0.24 0.38 rg
+42.00 577.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 585.89 Td
+(Identificador) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+148.00 585.89 Td
+(CT-STEP-001) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+333.00 585.89 Td
+(Severidade / Prioridade) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+443.00 585.89 Td
+(Cr\355tica \(Blocker\) / P1 \(Alta\)) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 544.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 563.89 Td
+(T\355tulo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 563.89 Td
+(Emiss\343o de Nova Ordem de Servi\347o com) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 553.39 Td
+(Check-in T\351cnico e Valida\347\343o Cadastral) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+142.00 577.89 m 142.00 544.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+332.00 563.89 Td
+(Tipo de Teste) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+327.00 577.89 m 327.00 544.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 563.89 Td
+(Funcional / Caminho Feliz) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+437.00 577.89 m 437.00 544.89 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 511.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 530.89 Td
+(User Story) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 530.89 Td
+(US-OS-001 \(Abertura de Nova O.S.\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+142.00 544.89 m 142.00 511.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+332.00 530.89 Td
+(Ambiente) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+327.00 544.89 m 327.00 511.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 530.89 Td
+(Staging / QA \(Build) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 520.39 Td
+(v2.4.1\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+437.00 544.89 m 437.00 511.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 489.39 511.28 22.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 497.89 Td
+(Regras Vinculadas) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 497.89 Td
+(RN01, RN02, RN03, RN04, RN05) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+142.00 511.89 m 142.00 489.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+332.00 497.89 Td
+(Respons\341vel) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+327.00 511.89 m 327.00 489.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 497.89 Td
+(Analista de Qualidade) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+437.00 511.89 m 437.00 489.39 l S
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 466.39 Td
+(Massa de Teste e Pr\351-condi\347\365es) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 450.39 Td
+(Pr\351-condi\347\365es: Atendente logado; Cliente Marcos Silva \(CPF: 234.567.890-11\) previamente cadastrado; Ve\355culo) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 437.89 Td
+(Honda Civic 2021 \(Placa: BRA2E19\) com \372ltima O.S. registrando 38.200 km.
+Massa Informada: KM Atual: 44.800 km) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 425.39 Td
+(| Combust\355vel: 1/2 | Queixa: 'Ru\355do met\341lico na suspens\343o dianteira ao passar por desn\355veis e vibra\347\343o no) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 412.89 Td
+(pedal de freio'.) Tj
+ET
+0.14 0.24 0.38 rg
+42.00 383.39 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 391.39 Td
+(#) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+70.00 391.39 Td
+(A\347\343o do Usu\341rio) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+205.00 391.39 Td
+(Dados de Entrada) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+310.00 391.39 Td
+(Resultado Esperado do Passo) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+525.00 391.39 Td
+(Status) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 350.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 369.39 Td
+(1) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 369.39 Td
+(Acessar menu 'Ordens de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 358.89 Td
+(Servi\347o'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 383.39 m 64.00 350.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 369.39 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 383.39 m 199.00 350.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 369.39 Td
+(Menu expande exibindo '+ Nova O.S.' e pain\351is.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 383.39 m 304.00 350.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 369.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 383.39 m 519.00 350.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 317.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 336.39 Td
+(2) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 336.39 Td
+(Clicar em '+ Nova Ordem de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 325.89 Td
+(Servi\347o'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 350.39 m 64.00 317.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 336.39 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 350.39 m 199.00 317.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 336.39 Td
+(Formul\341rio de check-in carrega com foco no campo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 325.89 Td
+(CPF.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 350.39 m 304.00 317.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 336.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 350.39 m 519.00 317.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 284.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 303.39 Td
+(3) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 303.39 Td
+(Buscar cliente pelo CPF) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 292.89 Td
+(cadastrado.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 317.39 m 64.00 284.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 303.39 Td
+(234.567.890-11) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 317.39 m 199.00 284.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 303.39 Td
+(Autocompleta nome, telefone e lista de ve\355culos) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 292.89 Td
+(do cliente.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 317.39 m 304.00 284.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 303.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 317.39 m 519.00 284.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 251.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 270.39 Td
+(4) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 270.39 Td
+(Selecionar o ve\355culo Honda) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 259.89 Td
+(Civic da lista.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 284.39 m 64.00 251.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 270.39 Td
+(Placa: BRA2E19) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 284.39 m 199.00 251.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 270.39 Td
+(Carrega dados e exibe: '\332ltima O.S. com 38.200) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 259.89 Td
+(km'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 284.39 m 304.00 251.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 270.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 284.39 m 519.00 251.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 218.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 237.39 Td
+(5) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 237.39 Td
+(Informar hod\364metro atual.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 251.39 m 64.00 218.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 237.39 Td
+(44800) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 251.39 m 199.00 218.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 237.39 Td
+(Formata para '44.800 km' e exibe \355cone de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 226.89 Td
+(valida\347\343o verde.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 251.39 m 304.00 218.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 237.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 251.39 m 519.00 218.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 185.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 204.39 Td
+(6) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 204.39 Td
+(Marcar n\355vel de combust\355vel e) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 193.89 Td
+(avaria.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 218.39 m 64.00 185.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 204.39 Td
+(1/2 Tanque / Arranh\343o) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 218.39 m 199.00 185.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 204.39 Td
+(Marcador preenchido e ponto de avaria registrado) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 193.89 Td
+(no diagrama.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 218.39 m 304.00 185.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 204.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 218.39 m 519.00 185.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 152.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 171.39 Td
+(7) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 171.39 Td
+(Preencher relato detalhado de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 160.89 Td
+(queixa.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 185.39 m 64.00 152.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 171.39 Td
+('Ru\355do na) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 160.89 Td
+(suspens\343o...') Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 185.39 m 199.00 152.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 171.39 Td
+(Texto aceito, contador de caracteres atualiza) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 160.89 Td
+(normalmente.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 185.39 m 304.00 152.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 171.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 185.39 m 519.00 152.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 119.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 138.39 Td
+(8) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 138.39 Td
+(Clicar no bot\343o 'Gerar Ordem) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 127.89 Td
+(de Servi\347o'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 152.39 m 64.00 119.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 138.39 Td
+(Clique de mouse /) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 127.89 Td
+(Enter) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 152.39 m 199.00 119.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 138.39 Td
+(Exibe toast: 'O.S. gerada com sucesso sob o) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 127.89 Td
+(protocolo OS-2026-00108'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 152.39 m 304.00 119.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 138.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 152.39 m 519.00 119.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 86.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 105.39 Td
+(9) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 105.39 Td
+(Verificar transi\347\343o de estado) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 94.89 Td
+(da O.S.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 119.39 m 64.00 86.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 105.39 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 119.39 m 199.00 86.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 105.39 Td
+(Status gravado como 'Aguardando Diagn\363stico';) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 94.89 Td
+(card inserido no Kanban.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 119.39 m 304.00 86.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 105.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 119.39 m 519.00 86.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 53.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 72.39 Td
+(10) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 72.39 Td
+(Validar envio digital ao) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 61.89 Td
+(cliente.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 86.39 m 64.00 53.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 72.39 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 86.39 m 199.00 53.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 72.39 Td
+(Simulador confirma envio de WhatsApp com link de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 61.89 Td
+(acompanhamento.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 86.39 m 304.00 53.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 72.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 86.39 m 519.00 53.39 l S
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 1 de 2) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 11401 >>
+stream
+BT
+/F2 7.5 Tf
+0.35 0.4 0.48 rg
+42 817.89 Td
+(EXECU\307\303O DE TESTES | METODOLOGIA IEEE 829) Tj
+ET
+BT
+/F1 7.5 Tf
+0.5 0.55 0.6 rg
+385.5799999999999 817.89 Td
+(Casos de Teste Passo a Passo \(Step-by-Step\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 813.89 m 553.28 813.89 l S
+0.94 0.98 0.94 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 745.89 511.28 48.00 re
+B
+0.18 0.62 0.28 rg
+42.00 745.89 4.00 48.00 re
+f
+BT
+/F2 9.5 Tf
+0.18 0.62 0.28 rg
+54.00 779.89 Td
+(P\323S-CONDI\307\303O E CRIT\311RIO DE ACEITA\307\303O - CT-STEP-001) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 765.89 Td
+(A O.S. OS-2026-00108 foi persistida com sucesso na base de dados relacional com integridade referencial) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 754.39 Td
+(mantida, status 'Aguardando Diagn\363stico' atribu\355do e notifica\347\343o enviada sem falhas.) Tj
+ET
+0.12 0.36 0.64 rg
+42.00 719.89 4.00 16.00 re
+f
+BT
+/F2 12.5 Tf
+0.08 0.17 0.28 rg
+54.00 722.89 Td
+(Caso de Teste 2: Bloqueio de Hod\364metro Inferior ao Hist\363rico \(Regra de Neg\363cio\)) Tj
+ET
+0.86 0.9 0.94 RG
+1 w
+42.00 713.89 m 553.28 713.89 l S
+0.14 0.24 0.38 rg
+42.00 681.89 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 689.89 Td
+(Identificador) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+148.00 689.89 Td
+(CT-STEP-002) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+333.00 689.89 Td
+(Severidade / Prioridade) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+443.00 689.89 Td
+(Alta \(Major\) / P2 \(Alta\)) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 638.39 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 667.89 Td
+(T\355tulo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 667.89 Td
+(Bloqueio de Abertura de O.S. com) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 657.39 Td
+(Quilometragem Inferior ao Hist\363rico) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 646.89 Td
+(Registrado) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+142.00 681.89 m 142.00 638.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+332.00 667.89 Td
+(Tipo de Teste) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+327.00 681.89 m 327.00 638.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 667.89 Td
+(Regra de Neg\363cio /) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 657.39 Td
+(Negativo) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+437.00 681.89 m 437.00 638.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 605.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 624.39 Td
+(User Story) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 624.39 Td
+(US-OS-001 \(Abertura de Nova O.S.\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+142.00 638.39 m 142.00 605.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+332.00 624.39 Td
+(Ambiente) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+327.00 638.39 m 327.00 605.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 624.39 Td
+(Staging / QA \(Build) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 613.89 Td
+(v2.4.1\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+437.00 638.39 m 437.00 605.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 582.89 511.28 22.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 591.39 Td
+(Regras Vinculadas) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+147.00 591.39 Td
+(RN03 \(Preven\347\343o Antifraude de Hod\364metro\)) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+142.00 605.39 m 142.00 582.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+332.00 591.39 Td
+(Respons\341vel) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+327.00 605.39 m 327.00 582.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+442.00 591.39 Td
+(Analista de Qualidade) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+437.00 605.39 m 437.00 582.89 l S
+BT
+/F2 10.5 Tf
+0.15 0.28 0.45 rg
+42.00 559.89 Td
+(Massa de Teste e Pr\351-condi\347\365es) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 543.89 Td
+(Pr\351-condi\347\365es: Ve\355culo placa BRA2E19 possui hist\363rico finalizado no banco com 45.000 km. Usu\341rio logado sem) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 531.39 Td
+(privil\351gios de ger\352ncia t\351cnica.
+Massa Informada: Tentativa de registrar valor propositalmente defasado:) Tj
+ET
+BT
+/F1 9 Tf
+0.2 0.22 0.25 rg
+42.00 518.89 Td
+(41.200 km \(pois 41.200 < 45.000\).) Tj
+ET
+0.14 0.24 0.38 rg
+42.00 489.39 511.28 22.00 re
+f
+BT
+/F2 8.5 Tf
+1 1 1 rg
+48.00 497.39 Td
+(#) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+70.00 497.39 Td
+(A\347\343o do Usu\341rio) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+205.00 497.39 Td
+(Dados de Entrada) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+310.00 497.39 Td
+(Resultado Esperado do Passo) Tj
+ET
+BT
+/F2 8.5 Tf
+1 1 1 rg
+525.00 497.39 Td
+(Status) Tj
+ET
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 456.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 475.39 Td
+(1) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 475.39 Td
+(Acessar 'Nova Ordem de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 464.89 Td
+(Servi\347o'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 489.39 m 64.00 456.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 475.39 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 489.39 m 199.00 456.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 475.39 Td
+(Carrega tela limpa de check-in.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 489.39 m 304.00 456.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 475.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 489.39 m 519.00 456.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 423.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 442.39 Td
+(2) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 442.39 Td
+(Digitar a placa do ve\355culo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 431.89 Td
+(teste.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 456.39 m 64.00 423.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 442.39 Td
+(BRA2E19) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 456.39 m 199.00 423.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 442.39 Td
+(Sistema recupera dados e informa: '\332ltimo KM) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 431.89 Td
+(registrado: 45.000 km'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 456.39 m 304.00 423.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 442.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 456.39 m 519.00 423.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 390.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 409.39 Td
+(3) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 409.39 Td
+(Informar KM inferior ao) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 398.89 Td
+(hist\363rico.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 423.39 m 64.00 390.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 409.39 Td
+(41200) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 423.39 m 199.00 390.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 409.39 Td
+(Ao perder o foco do campo, a borda do input) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 398.89 Td
+(assume a cor vermelha.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 423.39 m 304.00 390.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 409.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 423.39 m 519.00 390.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 357.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 376.39 Td
+(4) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 376.39 Td
+(Preencher demais campos) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 365.89 Td
+(mandat\363rios.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 390.39 m 64.00 357.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 376.39 Td
+(Dados gen\351ricos) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 365.89 Td
+(v\341lidos) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 390.39 m 199.00 357.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 376.39 Td
+(Formul\341rio aceita os outros dados normalmente.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 390.39 m 304.00 357.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 376.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 390.39 m 519.00 357.39 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 324.39 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 343.39 Td
+(5) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 343.39 Td
+(Clicar em 'Gerar Ordem de) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 332.89 Td
+(Servi\347o'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 357.39 m 64.00 324.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 343.39 Td
+(Clique de mouse) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 357.39 m 199.00 324.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 343.39 Td
+(O sistema bloqueia categoricamente a submiss\343o do) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 332.89 Td
+(formul\341rio.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 357.39 m 304.00 324.39 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 343.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 357.39 m 519.00 324.39 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 280.89 511.28 43.50 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 310.39 Td
+(6) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 310.39 Td
+(Verificar exibi\347\343o do alerta) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 299.89 Td
+(modal.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 324.39 m 64.00 280.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 310.39 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 324.39 m 199.00 280.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 310.39 Td
+(Modal exibe: 'Inconsist\352ncia de Hod\364metro: O) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 299.89 Td
+(valor informado \(41.200 km\) \351 inferior ao \372ltimo) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 289.39 Td
+(registro \(45.000 km\)'.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 324.39 m 304.00 280.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 310.39 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 324.39 m 519.00 280.89 l S
+1 1 1 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 247.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 266.89 Td
+(7) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 266.89 Td
+(Verificar link de exce\347\343o) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 256.39 Td
+(t\351cnica.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 280.89 m 64.00 247.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 266.89 Td
+(N/A) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 280.89 m 199.00 247.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 266.89 Td
+(Aviso esclarece que para seguir \351 mandat\363ria) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 256.39 Td
+(senha de gerente t\351cnico.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 280.89 m 304.00 247.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 266.89 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 280.89 m 519.00 247.89 l S
+0.96 0.97 0.99 rg
+0.85 0.88 0.92 RG
+0.5 w
+42.00 214.89 511.28 33.00 re
+B
+BT
+/F2 8 Tf
+0.2 0.22 0.25 rg
+47.00 233.89 Td
+(8) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 233.89 Td
+(Consultar banco de dados /) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+69.00 223.39 Td
+(API.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+64.00 247.89 m 64.00 214.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+204.00 233.89 Td
+(Consulta direta) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+199.00 247.89 m 199.00 214.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 233.89 Td
+(Confirma\347\343o de que NENHUMA O.S. foi criada no) Tj
+ET
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+309.00 223.39 Td
+(banco de dados.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+304.00 247.89 m 304.00 214.89 l S
+BT
+/F1 8 Tf
+0.2 0.22 0.25 rg
+524.00 233.89 Td
+(Pass) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+519.00 247.89 m 519.00 214.89 l S
+0.94 0.98 0.94 rg
+0.88 0.9 0.93 RG
+0.75 w
+42.00 154.89 511.28 48.00 re
+B
+0.18 0.62 0.28 rg
+42.00 154.89 4.00 48.00 re
+f
+BT
+/F2 9.5 Tf
+0.18 0.62 0.28 rg
+54.00 188.89 Td
+(P\323S-CONDI\307\303O E CRIT\311RIO DE ACEITA\307\303O - CT-STEP-002) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 174.89 Td
+(A integridade dos dados hist\363ricos foi 100% preservada. O sistema barrou a grava\347\343o an\364mala sem causar) Tj
+ET
+BT
+/F1 8.5 Tf
+0.18 0.2 0.22 rg
+54.00 163.39 Td
+(travamentos de interface nem emitir exce\347\365es n\343o tratadas \(Erro 500\) na API.) Tj
+ET
+0.85 0.88 0.92 RG
+0.5 w
+42 32 m 553.28 32 l S
+BT
+/F1 7.5 Tf
+0.45 0.5 0.55 rg
+42 20 Td
+(OficinaTech Pro - Gestao de Qualidade de Software | Desafio de Projeto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.3 0.35 0.4 rg
+483.28 20 Td
+(P·gina 2 de 2) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000000432 00000 n 
+0000000527 00000 n 
+0000000627 00000 n 
+0000013241 00000 n 
+0000013413 00000 n 
+0000024868 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+25042
+%%EOF
